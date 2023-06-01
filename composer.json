@@ -30,7 +30,7 @@
             "AE\\SalesforceRestSdk\\Tests\\": ["Tests/"]
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^7.3"
     }
